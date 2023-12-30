@@ -1,6 +1,6 @@
 # Mancala
 
-The software project is an implementation of the Mancala game using Java. 
+The Java software project is an implementation of the Mancala game using Object Oriented Programming. 
 
 ## Description
 
